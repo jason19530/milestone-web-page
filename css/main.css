@@ -1,0 +1,191 @@
+/*** Base ***/
+
+p {
+  font-family: 'Alegreya', serif;
+  font-size : 20px;
+}
+
+h1 {
+  font-family: 'Lora', serif;
+  font-weight : 700;
+  font-size : 35px;
+  padding-bottom: 60px;
+}
+
+
+h2 {
+
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+
+}
+
+
+
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 60px;
+  padding-left: 125px;
+  padding-right : 125px;
+
+}
+
+.half-width {
+  width : 600px;
+float: left;
+
+}
+
+.third-width {
+  width : 400px;
+  float : left;
+text-align: center;
+}
+
+
+/***  font-family: 'Roboto Slab', serif;  ***/
+/***  font-family: 'Alegreya', serif;   ****/
+
+/*** Body ***/
+
+
+
+
+#header, #about, #skills, #work {
+  height : 550px;
+}
+
+#work img, #skills img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/**** Header  ***/
+
+#header {
+
+background-color: #ebebeb;
+
+
+}
+
+#header .full-width {
+
+  padding-left : 90px;
+}
+
+
+
+
+#header p {
+  font-size : 32px;
+}
+
+
+#header h1  {
+  font-size: 40px;
+
+  }
+
+
+
+/*** About ****/
+
+
+
+#about img {
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+
+
+/*** Skills ***/
+#skills {
+
+  padding-bottom: 60px;
+}
+
+
+#skills p {
+
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+#skills img {
+  height: 160px;
+
+
+}
+
+
+
+/**** Work ****/
+#work a {
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+}
+
+
+#work {
+  background-color: #ebebeb;
+}
+
+#work p {
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+#work h1 p {
+  text-align: center;
+}
+
+#work img {
+  height:135px;
+  }
+
+/**** Contact ****/
+
+#contact nav {
+
+}
+
+#contact {
+
+  height : 350px;
+}
+
+#contact ul {
+padding-left : 0px;
+  list-style: none;
+  font-family: 'Alegreya', serif;
+  font-size : 20px;
+
+}
+
+#contact li img {
+
+
+
+}
+
+#contact img {
+
+    padding-left: 100px;
+      float: right;
+
+}
+
+#social-media  {
+
+  padding-right:150px;
+  padding-top : 100px;
+
+}
